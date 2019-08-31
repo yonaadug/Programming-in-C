@@ -1,0 +1,10 @@
+Tests started on:
+Mon Dec 10 03:21:58 EST 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_6/Complex_numbers/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_6/Complex_numbers/test/test01
+Tests completed on:
+Mon Dec 10 03:21:58 EST 2018

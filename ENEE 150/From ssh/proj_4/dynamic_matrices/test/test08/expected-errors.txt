@@ -1,0 +1,6 @@
+
+One or both of the matrices are not filled in. They do not add.
+
+One or both of the matrices are not filled in. They do not add.
+
+One or both of the matricies you entered is invalid.

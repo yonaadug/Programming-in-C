@@ -1,0 +1,5 @@
+Argument count: argc = 4
+argv[0] = ./command.out
+argv[1] = able
+argv[2] = baker
+argv[3] = charlie

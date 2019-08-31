@@ -1,0 +1,19 @@
+
+Enter number of columns (n): 
+Your entered row is 4
+Enter the elements: 
+The matrix you entered is as shown below:
+ -4  5  6 -3
+ -3  2  0 10
+  0  0  0  3
+
+This is the transpose of your matrix:
+ -4 -3  0
+  5  2  0
+  6  0  0
+ -3 10  3
+
+This is the matrix muliplied by its transpose:
+   86   -8   -9
+   -8  113   30
+   -9   30    9

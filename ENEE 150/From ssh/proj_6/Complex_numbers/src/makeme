@@ -1,0 +1,8 @@
+gcc -c main.c
+gcc -c complex.c
+gcc -o main.exe main.o complex.c -lm
+
+if [ -f main.exe ]; then
+    mv main.exe ../bin
+fi
+

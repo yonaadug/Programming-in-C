@@ -1,0 +1,4 @@
+Enter the vector length: 
+Enter the first vector, separate each element by whitespace.
+Enter the second vector, separate each element by whitespace.
+The result is 35

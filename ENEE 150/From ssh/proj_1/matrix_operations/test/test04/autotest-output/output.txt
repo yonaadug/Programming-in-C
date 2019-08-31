@@ -1,0 +1,4 @@
+
+Enter number of columns (n): 
+Your entered row is 2
+Enter the elements: 

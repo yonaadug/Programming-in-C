@@ -1,0 +1,12 @@
+Tests started on:
+Thu Nov 15 03:10:53 EST 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test08
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test08
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Thu Nov 15 03:10:53 EST 2018

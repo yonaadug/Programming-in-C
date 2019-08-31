@@ -1,0 +1,3 @@
+" Placeholder file for user-defined VIM customizations.
+" vim will complain if a vimrc-platform.txt file is not
+" present in the course directory.

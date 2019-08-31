@@ -1,0 +1,6 @@
+gcc main.c -o main.exe
+
+if [ -f main.exe ]; then
+    mv main.exe ../bin
+fi
+

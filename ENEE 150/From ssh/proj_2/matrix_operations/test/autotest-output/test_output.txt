@@ -1,0 +1,76 @@
+Tests started on:
+Thu Oct 18 23:46:43 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test01
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test02
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test03
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test04
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test04
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test05
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test05
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test06
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test06
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test07
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test07
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test08
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test08
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test09
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test09
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test10
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test10
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test11
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test11
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test12
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test12
+Tests completed on:
+Thu Oct 18 23:46:44 EDT 2018

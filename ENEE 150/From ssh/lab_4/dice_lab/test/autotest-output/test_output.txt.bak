@@ -1,0 +1,23 @@
+Tests started on:
+Thu Sep 20 13:57:09 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test03
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Thu Sep 20 13:57:09 EDT 2018

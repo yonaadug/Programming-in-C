@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# UX (user-specific) variable definitions for DICEMIN that are needed to
+# start up DICEMIN. See the DICEMIN setup instructions for more information
+# on how to customize this file.
+# Edit only below the dashed line below.
+# Based on template version: 11/18/2010
+# -----------------------------------------------------------------------------
+UXDICEMIN=$UX_IDICE_SET/packages/dicemin1.0/dicemin

@@ -1,0 +1,5 @@
+Test count: 1; test failures: 1; error output mismatches: 1
+Test failures: 
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test07
+Error comparison failures: 
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test07

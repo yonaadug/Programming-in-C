@@ -1,0 +1,14 @@
+showrates
+Euro-US 100
+US-Euro 100
+Euro-Pound 1000
+thiscommandisgarbage
+Pound-Euro 1000
+US-Pound 10
+Pound-US 10
+Euro-Pound 1111
+showrates
+showrates
+US-Euro -10
+quit
+

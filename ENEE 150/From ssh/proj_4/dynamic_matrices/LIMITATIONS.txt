@@ -1,0 +1,5 @@
+- The program fills the unfilled part of the matrix with zeros if user does not enter all the elements. This is not a bug, its a feature.
+
+-The program reads character one by one. This means that, entering a string of characters that can give errors will give an error for each character.
+
+-Entering weird characters like ESC give weird outputs

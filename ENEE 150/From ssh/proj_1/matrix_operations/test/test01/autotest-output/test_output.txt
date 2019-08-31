@@ -1,0 +1,10 @@
+Tests started on:
+Wed Oct 10 21:10:54 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_1/matrix_operations/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_1/matrix_operations/test/test01
+Tests completed on:
+Wed Oct 10 21:10:55 EDT 2018

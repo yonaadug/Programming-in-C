@@ -1,0 +1,6 @@
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: List is empty.
+
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter your choice: 1 insert; 2 delete; 3 exit:
+?: 

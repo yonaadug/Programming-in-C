@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -Wall -pedantic currency.c -o currency.exe
+./currency.exe<testdata.lab2
+

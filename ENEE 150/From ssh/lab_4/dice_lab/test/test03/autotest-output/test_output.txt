@@ -1,0 +1,10 @@
+Tests started on:
+Wed Oct  3 23:13:31 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/dice_lab/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/dice_lab/test/test03
+Tests completed on:
+Wed Oct  3 23:13:31 EDT 2018

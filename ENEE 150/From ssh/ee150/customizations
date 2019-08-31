@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+# Examples of basic bash customizations. This is a starter file that 
+# provides examples of basic bash customizations, and
+# can be modified by users to incorporate their own customizations.
+
+# Listing files
+function l
+{
+    ls -a -F $@
+}
+
+# Listing files in long format.
+function ll
+{
+    ls -l $@
+}
+
+# Change directory to one or more levels above (alias examples).
+# Aliases are generally simpler and less powerful compared to functions. 
+alias gp="cd .."
+alias gpp="cd ../.."
+alias v=vim
+
+

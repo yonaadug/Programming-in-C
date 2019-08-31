@@ -1,0 +1,11 @@
+Tests started on:
+Thu Oct 18 23:24:04 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test05
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_2/matrix_operations/test/test05
+Tests completed on:
+Thu Oct 18 23:24:04 EDT 2018

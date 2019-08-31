@@ -1,0 +1,1 @@
+You cannot enter a non-positive number or a number more than 10 for the number of columns.

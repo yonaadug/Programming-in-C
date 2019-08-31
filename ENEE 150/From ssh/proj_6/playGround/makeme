@@ -1,0 +1,3 @@
+gcc -c main.c
+gcc -c complex.c
+gcc -o main.exe main.o complex.c -lm

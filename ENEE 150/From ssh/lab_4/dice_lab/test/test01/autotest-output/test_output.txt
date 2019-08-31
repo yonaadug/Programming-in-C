@@ -1,0 +1,10 @@
+Tests started on:
+Sun Sep 16 00:04:06 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+Tests completed on:
+Sun Sep 16 00:04:06 EDT 2018

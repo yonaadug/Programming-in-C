@@ -1,0 +1,10 @@
+Tests started on:
+Wed Aug 11 17:10:57 EDT 2010
+-----------------------------------------------------
+Test result for:
+/home/faculty/lxiang/EE150/examples/inner-product-examples/inner-product-function-example/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/faculty/lxiang/EE150/examples/inner-product-examples/inner-product-function-example/test/test01
+Tests completed on:
+Wed Aug 11 17:10:57 EDT 2010

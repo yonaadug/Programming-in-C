@@ -1,0 +1,12 @@
+Tests started on:
+Wed Aug 11 17:10:04 EDT 2010
+-----------------------------------------------------
+Test result for:
+/home/faculty/lxiang/EE150/examples/inner-product-examples/inner-product-function-example/test/test01
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/home/faculty/lxiang/EE150/examples/inner-product-examples/inner-product-function-example/test/test01
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Wed Aug 11 17:10:04 EDT 2010

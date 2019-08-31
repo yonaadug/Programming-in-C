@@ -1,0 +1,6 @@
+" Starter file for user-defined VIM customizations.
+" Enter a comment line (like this one) by starting the line
+" with a double-quote.
+"
+" Add customizations below this line.
+

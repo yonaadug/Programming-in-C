@@ -1,0 +1,10 @@
+Tests started on:
+Thu Nov 15 02:29:48 EST 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_4/dynamic_matrices/test/test02
+Tests completed on:
+Thu Nov 15 02:29:48 EST 2018

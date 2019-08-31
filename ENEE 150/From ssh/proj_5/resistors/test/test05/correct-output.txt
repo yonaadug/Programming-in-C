@@ -1,0 +1,17 @@
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter resistor ID: Enter resistor value: The list of resistors are: 
+R10 --> Total Resistance: 20.000000 
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter resistor ID: Enter resistor value: The list of resistors are: 
+R10 --> R40 --> Total Resistance: 40.000000 
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter resistor ID: Enter resistor value: The list of resistors are: 
+R10 --> R40 --> R50 --> Total Resistance: 100.000000 
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: The list of resistors are: 
+R10 --> R40 --> R50 --> Total Resistance: 100.000000 
+
+Enter the resistor ID of the resistor you want to delete: The list of resistors are: 
+R10 --> R50 --> Total Resistance: 80.000000 
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: 

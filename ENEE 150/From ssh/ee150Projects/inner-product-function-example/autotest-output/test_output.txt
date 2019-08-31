@@ -1,0 +1,22 @@
+Tests started on:
+Fri Aug 27 23:58:58 EDT 2010
+-----------------------------------------------------
+Test result for:
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test01
+-----------------------------------------------------
+Test result for:
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test02
+-----------------------------------------------------
+Test result for:
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/home/faculty/lxiang/ee150/examples/inner-product-examples/inner-product-function-example/test/test03
+Tests completed on:
+Fri Aug 27 23:58:58 EDT 2010

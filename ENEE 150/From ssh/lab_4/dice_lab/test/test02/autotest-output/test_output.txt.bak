@@ -1,0 +1,11 @@
+Tests started on:
+Sat Sep 15 23:34:51 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+Tests completed on:
+Sat Sep 15 23:34:51 EDT 2018

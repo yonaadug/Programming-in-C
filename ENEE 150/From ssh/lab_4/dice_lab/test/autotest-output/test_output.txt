@@ -1,0 +1,22 @@
+Tests started on:
+Thu Sep 20 14:00:03 EDT 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test01
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test02
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/lab_4/inner-product-program-example/test/test03
+Tests completed on:
+Thu Sep 20 14:00:03 EDT 2018

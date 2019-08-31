@@ -1,0 +1,22 @@
+
+Enter number of columns (n): 
+Your entered row is 3
+Enter the elements: 
+The matrix you entered is as shown below:
+  0  0  0
+  0  0  0
+  0  0  0
+  0  0  0
+  0  0  0
+
+This is the transpose of your matrix:
+  0  0  0  0  0
+  0  0  0  0  0
+  0  0  0  0  0
+
+This is the matrix muliplied by its transpose:
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0

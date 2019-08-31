@@ -1,0 +1,21 @@
+
+
+Enter the first complex number (real then imaginary part): 
+Enter the second complex number (real then imaginary part): 
+Complex numbers entered:
+1.000000 + 1.000000i 
+1.000000 + 1.000000i
+
+Addition: 2.000000 + 2.000000i 
+
+Subtraction: 0.000000 + 0.000000i 
+
+Multiplication: 0.000000 + 2.000000i 
+
+First complex number:
+Magnitude = 1.414214
+Square root(s) = 1.098684 + 0.455090i 	and	 1.098684 + -0.455090i
+
+Second complex number:
+Magnitude = 1.414214
+Square root(s) = 1.098684 + 0.455090i 	and	 1.098684 + -0.455090i

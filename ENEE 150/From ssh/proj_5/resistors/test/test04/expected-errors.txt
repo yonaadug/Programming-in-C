@@ -1,0 +1,2 @@
+
+ERROR. Resistor ID already taken.

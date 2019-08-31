@@ -1,0 +1,6 @@
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter resistor ID: Enter resistor value: The list of resistors are: 
+R30 --> Total Resistance: 40.000000 
+Enter your choice: 1 insert; 2 delete; 3 exit:
+?: Enter resistor ID: Enter your choice: 1 insert; 2 delete; 3 exit:
+?: 

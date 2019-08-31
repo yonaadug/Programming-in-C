@@ -1,0 +1,12 @@
+Tests started on:
+Thu Nov 29 23:41:36 EST 2018
+-----------------------------------------------------
+Test result for:
+/home/ee1501/cs150126/proj_5/resistors/test/test02
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/home/ee1501/cs150126/proj_5/resistors/test/test02
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Thu Nov 29 23:41:36 EST 2018

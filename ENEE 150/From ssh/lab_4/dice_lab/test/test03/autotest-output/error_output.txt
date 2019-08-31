@@ -1,0 +1,2 @@
+
+Cannot calculate ratio to of 1, to 0

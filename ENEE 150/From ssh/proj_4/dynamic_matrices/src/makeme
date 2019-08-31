@@ -1,0 +1,8 @@
+gcc -c main.c
+gcc -c matrix_functions.c
+gcc -o main.exe main.o matrix_functions.o
+
+if [ -f main.exe ]; then
+	mv main.exe ../bin
+fi
+
